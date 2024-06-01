@@ -1,5 +1,5 @@
-import Image from "next/image";
+import ReactRND from "@/component/ReactRND";
 
 export default function Home() {
-  return <p>Image Editor</p>;
+  return <ReactRND />;
 }
